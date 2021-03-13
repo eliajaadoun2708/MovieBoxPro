@@ -1,0 +1,6 @@
+framework module Pods_MovieBoxPro {
+  umbrella header "Pods-MovieBoxPro-umbrella.h"
+
+  export *
+  module * { export * }
+}
